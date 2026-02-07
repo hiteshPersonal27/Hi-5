@@ -115,6 +115,14 @@ The output will be in the `dist/` folder, ready to deploy.
 
 ---
 
+## 🚀 Deployment
+
+This project is configured to automatically deploy to GitHub Pages using GitHub Actions.
+Every push to the `main` branch will trigger a new build and deployment.
+
+
+---
+
 ## 📜 License
 
 MIT License - Feel free to use and modify for your business!
