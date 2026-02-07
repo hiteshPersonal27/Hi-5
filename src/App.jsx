@@ -37,7 +37,7 @@ function App() {
             {/* Footer */}
             <footer className="footer">
                 <div className="footer-content">
-                    <p>&copy; 2024 {config.shopName}. All rights reserved.</p>
+                    <p>&copy; 2026 {config.shopName}. All rights reserved.</p>
                     <p>Crafted with ❤️ for quality tech solutions</p>
                 </div>
             </footer>
